@@ -14,8 +14,6 @@ flutterでモバイルアプリ開発を目指す人
 ・昨日よりもっと成長したい開発者になりたいです。
 
 
-
-- 🔭 I’m currently working on delivery app
 - 🌱 I’m currently learning  Dart, Flutter
 - --> <img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=#0175C2&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=#02569B&logoColor=white"/>
 
